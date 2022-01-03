@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hard Rock Music Studio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <div class="wrapper">
+            <div class="logo"><a href=''>Hard Rock Music Studio</a></div>
+            <div class="menu">
+                <ul>
+                    <li><a href="#Home">  Home</a></li>
+                    <li><a href="About Studios">About Studios</a></li>
+                    <li><a href="#Studio Facilities">Studio Facilities</a></li>
+                    <li><a href="#Studio Recording">Studio Recording</a></li>
+                    <li><a href="Contact">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="wrapper">
+        <section id="home">
+               
+            <div class="kolom">
+                <p class="deskripsi">Hard Rock Music Studio</p>
+                <h2>Let,s we Party and Make Great Again</h2>
+                <p>Come On and Join Us</p>
+            </div>
+        </section>
